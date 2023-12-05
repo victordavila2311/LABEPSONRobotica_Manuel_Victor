@@ -4,6 +4,14 @@
 - Manuel Felipe Carranza Montenegro.
 ## Descripción de la solución planteada
 
+### codigo
+Se empezo por definir 3 puntos, el orignen, el eje X y el eje Y.
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/blob/main/imagenes%20epson/puntos.png" width="300px" >
+</p>
+</div>
 
 
 ## simulacion (click en la imagen)
