@@ -18,7 +18,7 @@ alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /></a>
 
 <div>
 <p style = 'text-align:center;' align="center">
-<a href="https://www.youtube.com/watch?v=el1dRtnvLvU" target="_blank"><img src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/blob/main/imagenes%20epson/simulacion.png" 
+<a href="https://www.youtube.com/watch?v=el1dRtnvLvU" target="_blank"><img src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/blob/main/imagenes%20epson/implementacion.png" 
 alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /></a>
 </p>
 </div>
