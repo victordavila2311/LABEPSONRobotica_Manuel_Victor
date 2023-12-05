@@ -9,7 +9,7 @@
 ## simulacion (click en la imagen)
 <div>
 <p style = 'text-align:center;' align="center">
-<a href="https://youtu.be/8okN96gEsQ4" target="_blank"><img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/blob/main/imagenes_simulacion/imagen%20implementacion.png" 
+<a href="https://youtu.be/8okN96gEsQ4" target="_blank"><img src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/blob/main/imagenes%20epson/simulacion.png" 
 alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /></a>
 </p>
 </div>
@@ -18,7 +18,7 @@ alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /></a>
 
 <div>
 <p style = 'text-align:center;' align="center">
-<a href="https://www.youtube.com/watch?v=el1dRtnvLvU" target="_blank"><img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/blob/main/imagenes_simulacion/imagen%20implementacion.png" 
+<a href="https://www.youtube.com/watch?v=el1dRtnvLvU" target="_blank"><img src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/blob/main/imagenes%20epson/simulacion.png" 
 alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /></a>
 </p>
 </div>
