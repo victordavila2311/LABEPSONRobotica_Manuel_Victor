@@ -5,7 +5,7 @@
 ## Descripción de la solución planteada
 
 ### codigo
-Se empezo por definir 3 puntos, el orignen, el eje X y el eje Y.
+Inicialmente, se establecieron tres puntos fundamentales: el origen, el eje X y el eje Y.
 
 <div>
 <p style = 'text-align:center;' align="center">
@@ -13,7 +13,7 @@ Se empezo por definir 3 puntos, el orignen, el eje X y el eje Y.
 </p>
 </div>
 
-Luego se inicio el codigo en el main empezando con un loop infinito donde se usaron entradas digitales definidas como switchs en memoria
+Posteriormente, se procedió a iniciar el código en el bloque principal (main) mediante un bucle infinito. En este bucle, se emplearon entradas digitales previamente definidas como interruptores (switches) en la memoria.
 
 <div>
 <p style = 'text-align:center;' align="center">
