@@ -45,7 +45,7 @@ Por ultimo se genero la funcion paletizado externo donde se usa la declaracion P
 </p>
 </div>
 
-## inicio implementacion
+## Inicio Implementación
 Para realizar la implementacion se uso el administrador del robot para liberar las articulaciones con el boton que dice liberar todas y de esta forma se definieron los puntos necesarios para crear el espacio de trabajo al liberar las ariculaciones, podemos mover el robot manualmente y cuando ya lo tenemos en la posicion que queremos volvemos a bloquear las articualciones con el boton bloquear todas y asi guardamos el punto
 <div>
 <p style = 'text-align:center;' align="center">
@@ -65,7 +65,7 @@ Por ultimo tambien se usaron las entradas y salidas digitales de la simulacion, 
 </p>
 </div>
 
-## simulacion (click en la imagen)
+## Simulación (click en la imagen)
 <div>
 <p style = 'text-align:center;' align="center">
 <a href="https://youtu.be/8okN96gEsQ4" target="_blank"><img src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/blob/main/imagenes%20epson/simulacion.png" 
@@ -73,7 +73,7 @@ alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /></a>
 </p>
 </div>
 
-## implementacion(click en la imagen)
+## Implementación(click en la imagen)
 
 <div>
 <p style = 'text-align:center;' align="center">
