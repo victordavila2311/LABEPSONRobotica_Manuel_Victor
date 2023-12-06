@@ -29,6 +29,16 @@ Un robot SCARA (Selective Compliance Assembly Robot Arm) de Epson es un tipo de 
 
 ### Diagrama de Articulaciones Robot Scara.
 
+El robot SCARA de Epson cuenta con articulaciones que le permiten movimientos específicos. Aunque las configuraciones exactas pueden variar según el modelo específico, aquí hay una descripción general de las articulaciones comunes en un robot SCARA:
+
+**Articulación de Base (Base Joint):** Esta es la primera articulación ubicada en la base del robot. Permite que el brazo del robot gire horizontalmente alrededor del eje vertical. El movimiento de esta articulación es esencial para cambiar la orientación general del brazo.
+
+**Articulación de Hombro (Shoulder Joint):** La segunda articulación, ubicada en el extremo superior del brazo, permite que el brazo se eleve o descienda en un movimiento vertical. Este movimiento es clave para ajustar la altura del extremo del brazo.
+
+**Articulación de Codo (Elbow Joint):** La tercera articulación, situada entre el brazo y el antebrazo, permite la flexión y extensión del brazo en un plano horizontal. Este movimiento contribuye a la capacidad del robot para alcanzar diferentes posiciones en el plano de trabajo.
+
+**Articulación de Muñeca (Wrist Joint):** Algunos modelos de robots SCARA de Epson pueden incluir una articulación de muñeca adicional, que permite giros en el extremo del brazo. Esto añade flexibilidad y versatilidad al manipular objetos en el plano de trabajo.
+
 <div>
 <p style = 'text-align:center;' align="center">
 <img width="418" alt="Screenshot 2023-12-06 at 13 16 38" src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/assets/82252851/45fc39b9-ffac-4d87-b256-a1148173dbed">
