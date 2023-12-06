@@ -23,7 +23,7 @@ Un robot SCARA (Selective Compliance Assembly Robot Arm) de Epson es un tipo de 
 
 <div>
 <p style = 'text-align:center;' align="center">
-![t6_right-hero-extended_690x460](https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/assets/82252851/c6c38441-a57f-46de-b5b0-a6133df155f0)
+<img width="418" alt="t6_right-hero-extended_690x460" src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/assets/82252851/c6c38441-a57f-46de-b5b0-a6133df155f0">
 </p>
 </div>
 
