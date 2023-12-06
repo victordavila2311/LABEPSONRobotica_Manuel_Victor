@@ -57,6 +57,8 @@ El robot SCARA de Epson cuenta con articulaciones que le permiten movimientos es
 </p>
 </div>
 
+### Parámetros DHstd Robot Scara.
+
 <div>
 <p style = 'text-align:center;' align="center">
 <img width="449" alt="Screenshot 2023-12-06 at 13 19 43" src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/assets/82252851/9be01ce6-38f4-4410-9f49-25ea8f047b66">
