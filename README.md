@@ -2,9 +2,9 @@
 ### Integrantes: 
 - Victor Manuel Dávila Castañeda.
 - Manuel Felipe Carranza Montenegro.
-## Descripción de la solución planteada
+## Descripción de la Solución Planteada.
 
-### codigo
+### Código.
 Inicialmente, se establecieron tres puntos fundamentales: el origen, el eje X y el eje Y.
 
 <div>
@@ -45,7 +45,7 @@ Finalmente, se implementó la función 'paletizado_externo', en la cual se emple
 </p>
 </div>
 
-## Inicio Implementación
+## Inicio Implementación.
 
 Para llevar a cabo la implementación, se hizo uso del administrador del robot para liberar las articulaciones mediante el botón denominado 'Liberar todas'. Esta acción permitió la definición de los puntos necesarios para crear el espacio de trabajo, ya que al liberar las articulaciones, fue posible mover el robot manualmente. Una vez posicionado en la ubicación deseada, se procedió a bloquear las articulaciones nuevamente mediante el botón 'Bloquear todas', consolidando así la configuración y guardando el punto correspondiente.
 
@@ -71,7 +71,7 @@ Finalmente, también se hicieron uso de las entradas y salidas digitales en la s
 </p>
 </div>
 
-## Simulación (Click en la imagen)
+## Simulación. (Click en la imagen)
 <div>
 <p style = 'text-align:center;' align="center">
 <a href="https://youtu.be/8okN96gEsQ4" target="_blank"><img src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/blob/main/imagenes%20epson/simulacion.png" 
@@ -79,7 +79,7 @@ alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /></a>
 </p>
 </div>
 
-## Implementación(Click en la imagen)
+## Implementación. (Click en la imagen)
 
 <div>
 <p style = 'text-align:center;' align="center">
