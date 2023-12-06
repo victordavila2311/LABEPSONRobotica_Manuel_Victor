@@ -1,4 +1,4 @@
-## Laboratorio No. 1 - Robótica Industrial
+## Laboratorio EPSON
 ### Integrantes: 
 - Victor Manuel Dávila Castañeda.
 - Manuel Felipe Carranza Montenegro.
