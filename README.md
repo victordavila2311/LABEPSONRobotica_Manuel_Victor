@@ -4,7 +4,7 @@
 - Manuel Felipe Carranza Montenegro.
 ## Descripción de la Solución Planteada.
 
-### Robot Scara
+### Robot Scara.
 
 
 Un robot SCARA (Selective Compliance Assembly Robot Arm) de Epson es un tipo de robot industrial diseñado para aplicaciones de ensamblaje y manipulación de alta precisión. Aquí tienes una descripción general:
@@ -20,6 +20,14 @@ Un robot SCARA (Selective Compliance Assembly Robot Arm) de Epson es un tipo de 
 **Control Avanzado:** Estos robots suelen contar con sistemas de control avanzado que les permiten realizar movimientos complejos con rapidez y precisión. La programación de estos robots puede realizarse mediante software específico que facilita la programación y la integración en líneas de producción.
 
 **Aplicaciones Comunes:** Los robots SCARA de Epson se utilizan comúnmente en la industria para tareas como ensamblaje de productos electrónicos, manipulación de piezas pequeñas, manejo de materiales, y otras aplicaciones donde se requiere alta precisión y velocidad.
+
+<div>
+<p style = 'text-align:center;' align="center">
+![t6_right-hero-extended_690x460](https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/assets/82252851/4bc1ffb9-d64f-47dc-a7ad-a69b2af5cc5d)
+</p>
+</div>
+
+### Diagrama de Articulaciones Robot Scara.
 
 <div>
 <p style = 'text-align:center;' align="center">
