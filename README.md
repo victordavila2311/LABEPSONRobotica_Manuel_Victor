@@ -4,6 +4,23 @@
 - Manuel Felipe Carranza Montenegro.
 ## Descripción de la Solución Planteada.
 
+### Robot Scara
+
+
+Un robot SCARA (Selective Compliance Assembly Robot Arm) de Epson es un tipo de robot industrial diseñado para aplicaciones de ensamblaje y manipulación de alta precisión. Aquí tienes una descripción general:
+
+**Arquitectura SCARA:** Este tipo de robot tiene una arquitectura de brazo articulado con dos articulaciones rotativas en el plano horizontal y una tercera articulación vertical que le permite moverse en un plano vertical. La disposición de las articulaciones proporciona al robot una gran capacidad de alcance y flexibilidad en el trabajo en un área específica.
+
+**Brazo Articulado:** El brazo del robot SCARA de Epson consta de varios eslabones (segmentos) conectados por juntas articuladas que permiten el movimiento del brazo en un patrón similar a un brazo humano. La disposición específica de estas juntas y eslabones determina la cinemática del robot.
+
+**Selectiva en Cumplimiento:** La característica "selectiva en cumplimiento" significa que el robot es rígido en ciertas direcciones y flexible en otras. Esto permite al robot ser preciso y controlado en ciertos movimientos, pero también ofrece cierta flexibilidad para adaptarse a variaciones en la posición de las piezas que está manipulando.
+
+**Precisión y Repetibilidad:** Los robots SCARA de Epson están diseñados para ofrecer alta precisión y repetibilidad en sus movimientos, lo que los hace ideales para tareas de ensamblaje y manipulación donde se requiere un posicionamiento preciso.
+
+**Control Avanzado:** Estos robots suelen contar con sistemas de control avanzado que les permiten realizar movimientos complejos con rapidez y precisión. La programación de estos robots puede realizarse mediante software específico que facilita la programación y la integración en líneas de producción.
+
+**Aplicaciones Comunes:** Los robots SCARA de Epson se utilizan comúnmente en la industria para tareas como ensamblaje de productos electrónicos, manipulación de piezas pequeñas, manejo de materiales, y otras aplicaciones donde se requiere alta precisión y velocidad.
+
 <div>
 <p style = 'text-align:center;' align="center">
 <img width="418" alt="Screenshot 2023-12-06 at 13 16 38" src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/assets/82252851/45fc39b9-ffac-4d87-b256-a1148173dbed">
