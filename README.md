@@ -4,7 +4,7 @@
 - Manuel Felipe Carranza Montenegro.
 ## Descripción de la Solución Planteada.
 
-### Robot Scara.
+### Robot SCARA.
 
 
 Un robot SCARA (Selective Compliance Assembly Robot Arm) de Epson es un tipo de robot industrial diseñado para aplicaciones de ensamblaje y manipulación de alta precisión. Aquí tienes una descripción general:
@@ -27,7 +27,7 @@ Un robot SCARA (Selective Compliance Assembly Robot Arm) de Epson es un tipo de 
 </p>
 </div>
 
-### Diagrama de Articulaciones Robot Scara.
+### Diagrama de Articulaciones Robot SCARA.
 
 El robot SCARA de Epson cuenta con articulaciones que le permiten movimientos específicos. Aunque las configuraciones exactas pueden variar según el modelo específico, aquí hay una descripción general de las articulaciones comunes en un robot SCARA:
 
@@ -45,11 +45,15 @@ El robot SCARA de Epson cuenta con articulaciones que le permiten movimientos es
 </p>
 </div>
 
+### Definición de Sistemas Coordenados Robot SCARA.
+
 <div>
 <p style = 'text-align:center;' align="center">
 <img width="484" alt="Screenshot 2023-12-06 at 13 17 12" src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/assets/82252851/27fbaeac-129f-4aa5-8c78-310459e7f028">
 </p>
 </div>
+
+### Cinemática Inversa Robot SCARA.
 
 <div>
 <p style = 'text-align:center;' align="center">
@@ -57,7 +61,7 @@ El robot SCARA de Epson cuenta con articulaciones que le permiten movimientos es
 </p>
 </div>
 
-### Parámetros DHstd Robot Scara.
+### Parámetros DHstd Robot SCARA.
 
 <div>
 <p style = 'text-align:center;' align="center">
