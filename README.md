@@ -4,6 +4,30 @@
 - Manuel Felipe Carranza Montenegro.
 ## Descripción de la Solución Planteada.
 
+<div>
+<p style = 'text-align:center;' align="center">
+<img width="418" alt="Screenshot 2023-12-06 at 13 16 38" src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/assets/82252851/45fc39b9-ffac-4d87-b256-a1148173dbed">
+</p>
+</div>
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img width="484" alt="Screenshot 2023-12-06 at 13 17 12" src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/assets/82252851/27fbaeac-129f-4aa5-8c78-310459e7f028">
+</p>
+</div>
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img width="507" alt="Screenshot 2023-12-06 at 13 18 59" src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/assets/82252851/de1ba57a-0af2-480b-9c1f-5a2149851de7">
+</p>
+</div>
+
+<div>
+<p style = 'text-align:center;' align="center">
+<img width="449" alt="Screenshot 2023-12-06 at 13 19 43" src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/assets/82252851/9be01ce6-38f4-4410-9f49-25ea8f047b66">
+</p>
+</div>
+
 ### Código.
 Inicialmente, se establecieron tres puntos fundamentales: el origen, el eje X y el eje Y.
 
