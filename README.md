@@ -46,7 +46,7 @@ Por ultimo se genero la funcion paletizado externo donde se usa la declaracion P
 </div>
 
 ## inicio implementacion
-Para realizar la implementacion se uso el administrador del robot para liberar las articulaciones con el boton que dice liberar todas y de esta forma se definieron los puntos necesarios para crear el espacio de trabajo
+Para realizar la implementacion se uso el administrador del robot para liberar las articulaciones con el boton que dice liberar todas y de esta forma se definieron los puntos necesarios para crear el espacio de trabajo al liberar las ariculaciones, podemos mover el robot manualmente y cuando ya lo tenemos en la posicion que queremos volvemos a bloquear las articualciones con el boton bloquear todas y asi guardamos el punto
 <div>
 <p style = 'text-align:center;' align="center">
 <img src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/blob/main/imagenes%20epson/administrador%20robot.png" width="300px" >
