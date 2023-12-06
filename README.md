@@ -21,7 +21,7 @@ Posteriormente, se procedió a iniciar el código en el bloque principal (main) 
 </p>
 </div>
 
-despues se genero la funcion paletizadoz con un paletizado de 2x3 y pasando con un ciclo for por todos los puntos en orden
+Luego, se creó la función 'paletizadoz', la cual implementó un esquema de paletizado de 2x3. A través de un ciclo for, se recorrieron todos los puntos de manera secuencial para llevar a cabo el proceso de paletización.
 
 <div>
 <p style = 'text-align:center;' align="center">
@@ -29,7 +29,7 @@ despues se genero la funcion paletizadoz con un paletizado de 2x3 y pasando con 
 </p>
 </div>
 
-despues se genero la funcion paletizados con un paletizado de 2x3 donde primero se va a los primeros dos puntos luego se va al punto 6, luego 5, y por ultimo los puntos 5 y 6, de estaa manera se obtiene el paletizado en z
+A continuación, se desarrolló la función 'paletizados', la cual implementó un esquema de paletizado de 2x3. En este proceso, la secuencia de movimientos se configuró de la siguiente manera: primero, se accedió a los dos primeros puntos, seguido por el punto 6; luego, se dirigió al punto 5, y finalmente, se abordaron los puntos 5 y 6 en conjunto. Esta secuencia específica garantiza la obtención del paletizado en el eje Z.
 
 <div>
 <p style = 'text-align:center;' align="center">
@@ -37,7 +37,7 @@ despues se genero la funcion paletizados con un paletizado de 2x3 donde primero 
 </p>
 </div>
 
-Por ultimo se genero la funcion paletizado externo donde se usa la declaracion Pallet outside para generar una malla de 4x3 y luego se debe reccorrer con dos ciclos for anidados debido a la forma de indicar movimiento de este tipo de paletizado
+Finalmente, se implementó la función 'paletizado_externo', en la cual se emplea la declaración 'Pallet outside' para generar una disposición en malla de 4x3. Posteriormente, se lleva a cabo el recorrido de esta disposición mediante dos ciclos for anidados, necesario debido a la naturaleza del movimiento indicado en este tipo de paletizado.
 
 <div>
 <p style = 'text-align:center;' align="center">
@@ -46,26 +46,32 @@ Por ultimo se genero la funcion paletizado externo donde se usa la declaracion P
 </div>
 
 ## Inicio Implementación
-Para realizar la implementacion se uso el administrador del robot para liberar las articulaciones con el boton que dice liberar todas y de esta forma se definieron los puntos necesarios para crear el espacio de trabajo al liberar las ariculaciones, podemos mover el robot manualmente y cuando ya lo tenemos en la posicion que queremos volvemos a bloquear las articualciones con el boton bloquear todas y asi guardamos el punto
+
+Para llevar a cabo la implementación, se hizo uso del administrador del robot para liberar las articulaciones mediante el botón denominado 'Liberar todas'. Esta acción permitió la definición de los puntos necesarios para crear el espacio de trabajo, ya que al liberar las articulaciones, fue posible mover el robot manualmente. Una vez posicionado en la ubicación deseada, se procedió a bloquear las articulaciones nuevamente mediante el botón 'Bloquear todas', consolidando así la configuración y guardando el punto correspondiente.
+
 <div>
 <p style = 'text-align:center;' align="center">
 <img src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/blob/main/imagenes%20epson/administrador%20robot.png" width="300px" >
 </p>
 </div>
-Despues de esto en la seccion ensañar y mover y se guardaron los puntos con el boton  enseñar
+
+Posteriormente, en la sección de 'Enseñar y Mover', se guardaron los puntos mediante el botón 'Enseñar'. Este proceso permitió registrar las posiciones específicas del robot, capturando así la información necesaria para su posterior movimiento y utilización.
+
 <div>
 <p style = 'text-align:center;' align="center">
 <img src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/blob/main/imagenes%20epson/mover%20y%20ense%C3%B1ar.png" width="300px" >
 </p>
 </div>
-Por ultimo tambien se usaron las entradas y salidas digitales de la simulacion, en el video de simulacion no se puede ver este recuadro ya que al parecer windows lo detecta como una aplicacion diferente y por eso no se observa cuando se da click en las entradas digitales aunque si se escucha el ruido del mouse haciendo click y se ve el robot cambiando de rutina
+
+Finalmente, también se hicieron uso de las entradas y salidas digitales en la simulación. Es importante destacar que en el video de la simulación, el cuadro correspondiente a estas funciones no es visible. Esto se debe a que, al parecer, Windows lo detecta como una aplicación independiente. Aunque no se visualiza el cuadro al dar clic en las entradas digitales, se puede percibir el sonido del clic del ratón y observar el cambio de rutina del robot en el video.
+
 <div>
 <p style = 'text-align:center;' align="center">
 <img src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/blob/main/imagenes%20epson/IO.png" width="300px" >
 </p>
 </div>
 
-## Simulación (click en la imagen)
+## Simulación (Click en la imagen)
 <div>
 <p style = 'text-align:center;' align="center">
 <a href="https://youtu.be/8okN96gEsQ4" target="_blank"><img src="https://github.com/victordavila2311/LABEPSONRobotica_Manuel_Victor/blob/main/imagenes%20epson/simulacion.png" 
@@ -73,7 +79,7 @@ alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /></a>
 </p>
 </div>
 
-## Implementación(click en la imagen)
+## Implementación(Click en la imagen)
 
 <div>
 <p style = 'text-align:center;' align="center">
